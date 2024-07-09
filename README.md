@@ -27,3 +27,4 @@
 
 ## Дашборд
 ![image](https://github.com/Bahlish/data-cleaning-and-visualization/assets/58674448/53150321-d7e6-4919-87f3-d02f6e948e34)
+#https://datalens.yandex/tjf400a1r78wg
